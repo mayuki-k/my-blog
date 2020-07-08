@@ -1,4 +1,0 @@
-FROM node:12-slim
-
-ENV APP_HOME /app
-WORKDIR $APP_HOME
